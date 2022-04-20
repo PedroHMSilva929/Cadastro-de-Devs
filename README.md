@@ -8,7 +8,7 @@ Nele, o dev (ou a deva) precisará inserir informações como, por exemplo: o <b
 Neste projeto, também, o objetivo <i>não</i> foi trabalhar com a responsividade.
 
 ## Tecnologias utilizada no projeto:
-HTML, CSS e JavaScript.
+HTML e CSS.
 
 ## O que aprendi desenvolvendo este projeto:
 Durante o projeto, aprendi a fazer formulários com HTML e também aprendi a fazer notificações com JavaScript no caso de o usuário esquecer de preencher algum campo de formulário.
