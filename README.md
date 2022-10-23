@@ -1,4 +1,4 @@
-# Cadastro de Devs (Desenvolvedores)
+# Cadastro de Devs
 
 ## Descrição do projeto:
 Este projeto foi desenvolvido objetivando criar um <b>Formulário para Cadastro de Devs</b>.
@@ -13,5 +13,5 @@ HTML e CSS.
 ## O que aprendi desenvolvendo este projeto:
 Durante o projeto, aprendi a fazer formulários com HTML e também aprendi a fazer notificações com JavaScript no caso de o usuário esquecer de preencher algum campo de formulário.
 
-## Link do repositório no GitHub:
-https://github.com/PedroHMSilva929/Cadastro-de-Devs
+## Como ficou o projeto:
+![cadastro_devs](https://user-images.githubusercontent.com/83307765/197417441-b040dcb9-c706-4830-81c5-c20ceccd5141.png)
